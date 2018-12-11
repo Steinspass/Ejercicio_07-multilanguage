@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio_07</string>
+    <string name="tab_title_first">Formulario</string>
+    <string name="tab_title_second">Lista</string>
+    <string name="fragment_form_label_person_name">Nombre de la persona</string>
+    <string name="fragment_form_label_person_country">País de la persona </string>
+    <string name="fragment_form_button_create_person">crear persona</string>
+    <string name="country_spain">España</string>
+    <string name="country_argentina">Argentina</string>
+    <string name="country_bolivia">Bolivia</string>
+    <string name="country_chile">Chile</string>
+    <string name="country_colombia">Colombia</string>
+    <string name="country_ecuador">Ecuador</string>
+    <string name="country_mexico">México</string>
+    <string name="country_peru">Perú</string>
+    <string name="country_uruguay">Uruguay</string>
+    <string name="country_venezuela">Venezuela</string>
+</resources>

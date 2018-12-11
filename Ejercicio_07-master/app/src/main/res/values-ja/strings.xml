@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio_07</string>
+    <string name="tab_title_first">形</string>
+    <string name="tab_title_second">リスト</string>
+    <string name="fragment_form_label_person_name">名前人</string>
+    <string name="fragment_form_label_person_country">人の国</string>
+    <string name="fragment_form_button_create_person">人を作成する</string>
+    <string name="country_spain">スペイン</string>
+    <string name="country_argentina">アルゼンチン</string>
+    <string name="country_bolivia">ボリビア</string>
+    <string name="country_chile">チリ</string>
+    <string name="country_colombia">コロンビア</string>
+    <string name="country_ecuador">エクアドル</string>
+    <string name="country_mexico">メキシコ</string>
+    <string name="country_peru">ペルー</string>
+    <string name="country_uruguay">ウルグアイ</string>
+    <string name="country_venezuela">ベネズエラ</string>
+</resources>
